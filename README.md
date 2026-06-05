@@ -18,7 +18,7 @@ To run the tool, simply place these two companion files in the **exact same fold
 1. **`sign_tool.exe`** — The main compiled executable utility.
 2. **`avbtool.py`** — Google's structural script dependency (must sit right next to the EXE).
 
-*Note: Your users do **not** need to install Python to use this executable wrapper.*
+*Note: users do **not** need to install Python to use this executable wrapper.*
 
 ---
 
